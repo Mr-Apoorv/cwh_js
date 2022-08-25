@@ -85,6 +85,7 @@ const deleteNote = (index) => {
 //search function
 let search = document.getElementById("search");
 search.addEventListener("input", () => {
+  //input event is triggered when keyboard buttons are pressed
   let cardNode = document.getElementsByClassName("card");
   Array.from(cardNode).forEach((element) => {
     let contentNode = element.getElementsByTagName("p")[0];
