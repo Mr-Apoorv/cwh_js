@@ -1,4 +1,6 @@
 console.log(`L-22 Project 1: Magic Notes`);
+console.log(`L-26 Project 1: Magic Notes`);
+console.log(`L-29 Project 1: Magic Notes`);
 
 //extracting notes from local storage
 let notesLocalStorage = localStorage.getItem("notes");
