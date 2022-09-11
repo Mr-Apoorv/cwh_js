@@ -1,5 +1,5 @@
 {
     "diffEditor.wordWrap": "off",
     "editor.wordWrap": "on",
-    "editor.experimental.stickyScroll.enabled": true
+    "editor.stickyScroll.enabled": true
 }
